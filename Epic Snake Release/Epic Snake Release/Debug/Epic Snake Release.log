@@ -1,0 +1,33 @@
+﻿  colisionable.cpp
+  main.cpp
+C:\Users\RexTh\Desktop\Snake Epic Release\Epic Snake Release\Epic Snake Release\SkinSelec.h(36,46): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+C:\Users\RexTh\Desktop\Snake Epic Release\Epic Snake Release\Epic Snake Release\SkinSelec.h(110,55): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\RexTh\Desktop\Snake Epic Release\Epic Snake Release\Epic Snake Release\SkinSelec.h(110,37): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\RexTh\Desktop\Snake Epic Release\Epic Snake Release\Epic Snake Release\main.cpp(63,55): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\RexTh\Desktop\Snake Epic Release\Epic Snake Release\Epic Snake Release\main.cpp(63,37): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\RexTh\Desktop\Snake Epic Release\Epic Snake Release\Epic Snake Release\main.cpp(271,16): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\RexTh\Desktop\Snake Epic Release\Epic Snake Release\Epic Snake Release\main.cpp(210,46): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+C:\Users\RexTh\Desktop\Snake Epic Release\Epic Snake Release\Epic Snake Release\main.cpp(213,42): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+  mainMenu.cpp
+C:\Users\RexTh\Desktop\Snake Epic Release\Epic Snake Release\Epic Snake Release\mainMenu.cpp(14,46): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+  snakeSection.cpp
+C:\Users\RexTh\Desktop\Snake Epic Release\Epic Snake Release\Epic Snake Release\snakeSection.cpp(35,36): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\RexTh\Desktop\Snake Epic Release\Epic Snake Release\Epic Snake Release\snakeSection.cpp(35,31): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Generando código...
+  Epic Snake Release.vcxproj -> C:\Users\RexTh\Desktop\Snake Epic Release\Epic Snake Release\Debug\Epic Snake Release.exe
